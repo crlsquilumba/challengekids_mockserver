@@ -182,7 +182,11 @@
     },
     {
       "score": 0,
-      "id": 5
+      "id": 5,
+      "nombre": "Darse una ducha",
+      "descripcion": "Ducharse para estar limpio",
+      "puntos": 0,
+      "imgURL": "/images/cantar.png"
     },
     {
       "score": 1,
