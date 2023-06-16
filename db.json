@@ -157,14 +157,14 @@
       "nombre": "Tender la cama",
       "descripcion": "tender la cama todos los dias",
       "puntos": 5,
-      "imgURL": "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg"
+      "imgURL": "../public/images/cama.png"
     },
     {
       "id": 2,
       "nombre": "Cepillarse los dientes",
       "descripcion": "Cepillarse los dientes despues de cada comida",
       "puntos": 3,
-      "imgURL": "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg"
+      "imgURL": "../public/images/cama.png"
     },
     {
       "id": 3,
