@@ -196,15 +196,15 @@
       "id": 7
     }
   ],
-   "detalleRetos": [
-     {"retoId":8,
- "detalleRetoId":871,
- "nombre":"Tender la cama",
- "descripcion":"tender la cama todos los dias",
- "puntosObtenidos":3,
- "fecha":"21/6/2023",
- "horaRegistro":"05:58:00"
- }
- 
-  ]
+      "detalleRetos": [
+        {
+          "retoId": 8,
+          "detalleRetoId": 871,
+          "nombre": "Tender la cama",
+          "descripcion": "tender la cama todos los dias",
+          "puntosObtenidos": 3,
+          "fecha": "21/6/2023",
+          "horaRegistro": "05:58:00"
+        }
+      ]
 }
