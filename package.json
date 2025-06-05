@@ -4,7 +4,8 @@
   "description": "challengekids_mockserver",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,10 @@
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
     "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.2.0"
   }
 }
