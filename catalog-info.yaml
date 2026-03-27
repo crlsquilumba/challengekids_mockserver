@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: challengekids_mockserver
+  description: challengekids_mockserver
+  annotations:
+    github.com/project-slug: crlsquilumba/challengekids_mockserver
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
